@@ -12,10 +12,10 @@ O(n), linear pura. Mesmo com vários `for` no código, eles ficam soltos, um dep
 
 ## 💬 Comentários
 
-<!--
+
 Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
 Formato sugerido:
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
+Ryan Áquila Damasceno Vieira
+
+--> Curti a explicação sobre os for que rodam separados em vez de um dentro do outro — isso é um detalhe que confunde bastante a gente (acha que é tudo O(n²) só porque tem vários loops). Aqui ficou beem explicado que como cada for roda sozinho, o crescimento continua sendo simples e direto (O(n)).
