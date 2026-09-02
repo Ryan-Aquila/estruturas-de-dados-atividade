@@ -1,6 +1,6 @@
 # Parte 3 — Investigação de Busca em Matrizes
 
-*Responsável: [nome de quem fez as Partes 3 e 4]*
+*Responsável: Rhuann Pablo Ferreira Magalhães
 
 **a) Por que encontrar um elemento no início exige menos operações?**
 Porque como a busca vai olhando um por um desde o começo, se a gente der a sorte de achar o número logo na primeira posição, o programa já bate o olho, satisfaz a condição e para por ali mesmo. Aí gasta o mínimo de esforço.
