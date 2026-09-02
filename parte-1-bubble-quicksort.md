@@ -39,6 +39,56 @@
 | Limitação principal | Lerdeza extrema em listas volumosas | Desempenho cai se o pivô for ruim |
 | Aplicação recomendada | Aprendizado e listas quase prontas | Grandes listas de uso geral |
 
+
+import random
+
+for tamanho in [10, 20, 5000]:
+    lista_original = [random.randint(1, 5000) for _ in range(tamanho)]
+
+    # --- BUBBLE SORT ---
+    lista_bubble = list(lista_original)
+    comparacoes_bubble = 0
+    trocas_bubble = 0
+
+    for etapa in range(tamanho):
+        for posicao in range(tamanho - etapa - 1):
+            comparacoes_bubble += 1
+            if lista_bubble[posicao] > lista_bubble[posicao + 1]:
+                # Inverte a posicao dos vizinhos
+                lista_bubble[posicao], lista_bubble[posicao + 1] = lista_bubble[posicao + 1], lista_bubble[posicao]
+                trocas_bubble += 1
+
+    # --- QUICK SORT ---
+    lista_quick = list(lista_original)
+    comparacoes_quick = 0
+    movimentacoes_quick = 0
+
+    tarefas_pendentes = [(0, tamanho - 1)]
+
+    while tarefas_pendentes:
+        inicio, fim = tarefas_pendentes.pop()
+
+        if inicio < fim:
+            pivo = lista_quick[fim]
+            indice_menores = inicio - 1
+
+            for ponteiro in range(inicio, fim):
+                comparacoes_quick += 1
+                if lista_quick[ponteiro] <= pivo:
+                    indice_menores += 1
+                    lista_quick[indice_menores], lista_quick[ponteiro] = lista_quick[ponteiro], lista_quick[indice_menores]
+                    movimentacoes_quick += 1
+
+            # Posiciona o pivo no lugar correto
+            lista_quick[indice_menores + 1], lista_quick[fim] = lista_quick[fim], lista_quick[indice_menores + 1]
+            movimentacoes_quick += 1
+
+            # Agenda a ordenacao das sublistas da esquerda e da direita
+            posicao_pivo = indice_menores + 1
+            tarefas_pendentes.append((inicio, posicao_pivo - 1))
+            tarefas_pendentes.append((posicao_pivo + 1, fim))
+
+    print(f"Array {tamanho}: Bubble({comparacoes_bubble} comp, {trocas_bubble} trocas) | Quick({comparacoes_quick} comp, {movimentacoes_quick} mov)")
 ---
 
 ## 💬 Comentários
@@ -47,6 +97,6 @@
 Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
 Formato sugerido:
 
-**[Seu Nome] — dd/mm:**
+Ryan Áquila Damasceno Vieira 
 Seu comentário aqui.
--->
+--> A tabela comparativa ficou bem clara pra visualizar as diferenças de complexidade entre os dois algoritmos O Bubble Sort é tipo aquele jeito "manual" de organizar as coisas comparando uma por uma, enquanto o Quick Sort já é mais esperto porque divide o problema em pedaços menores.
