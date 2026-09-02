@@ -96,10 +96,9 @@ A quantidade de posições percorridas é a multiplicação entre linhas e colun
 
 ## 💬 Comentários
 
-<!--
 Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
 Formato sugerido:
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
+Ryan Áquila Damasceno Vieira
+
+--> O código ficou organizado e dá pra seguir o raciocínio linha por linha. A parte de usar os índices [i][j] pra sensor e horário ficou bem clara na explicação. Testei mentalmente com a matriz de 5 sensores por 24 horas e realmente bate certinho com os 120 acessos que foram explicados. Só uma dica: talvez colocar um comentário rapidinho no código do que é a variável do limite ajudaria quem for ler correndo entender de cara.
