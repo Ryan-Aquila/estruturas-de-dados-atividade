@@ -27,10 +27,10 @@ Assim, os experimentos comprovaram que não basta um algoritmo produzir o result
 
 ## 💬 Comentários
 
-<!--
 Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
 Formato sugerido:
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
+Ryan Áquila Damasceno Vieira
+
+
+--> Gostei bastante dessa parte porque não ficou só resumindo o que já foi feito, ela realmente junta tudo e explica o porquê das coisas. Ficou claro que quanto maior os dados, mais isso pesa na hora de escolher entre um algoritmo e outro, e que só olhar o resultado final não conta a história toda. Acho que fechou o trabalho de um jeito bem redondo, dá pra entender a ideia geral só lendo essa parte.
