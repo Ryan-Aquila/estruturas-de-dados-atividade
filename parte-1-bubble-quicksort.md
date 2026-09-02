@@ -93,7 +93,6 @@ for tamanho in [10, 20, 5000]:
 
 ## 💬 Comentários
 
-<!--
 Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
 Formato sugerido:
 
