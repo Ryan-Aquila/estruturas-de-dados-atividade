@@ -1,6 +1,6 @@
 # Parte 6 — Análise e Conclusão
 
-*Responsável: [nome de quem fez a Parte 6]*
+*Responsável: Matheus Queirós de Souza Araújo*
 
 Os experimentos realizados permitiram observar, na prática, como o tamanho das estruturas de dados influencia diretamente a quantidade de operações executadas pelos algoritmos. Tanto nos testes de ordenação quanto nos percursos de arrays e matrizes, estruturas maiores exigiram uma quantidade maior de comparações, acessos e movimentações.
 
