@@ -1,6 +1,6 @@
 # Parte 2 — Experimento de Ordenação
 
-*Responsável: Ryan Áquila Damasceno Vieira
+*Responsável: Ryan Áquila Damasceno Vieira*
 
 Programa para comparar experimentalmente os algoritmos **Bubble Sort** e **Quick Sort**, com arrays de 10, 20 e 1.000 elementos.
 
@@ -39,10 +39,10 @@ Para qualquer aplicação real com volume moderado ou grande de dados que precis
 
 ## 💬 Comentários
 
-<!--
+
 Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
 Formato sugerido:
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
+Ryan Áquila Damasceno Vieira
+
+--> Esse experimento na prática ajudou muito a enxergar a diferença que só na teoria fica meio abstrato. Quando o array foi pra 1.000 elementos e o Bubble Sort disparou pra quase 500 mil operações enquanto o Quick Sort ficou só na casa dos 10 mil, isso mostra bem forte o quanto escolher o algoritmo certo faz diferença.
