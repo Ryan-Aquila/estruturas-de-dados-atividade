@@ -97,6 +97,5 @@ Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
 Formato sugerido:
 
 Ryan Áquila Damasceno Vieira 
-Seu comentário aqui.
 
 --> A tabela comparativa ficou bem clara pra visualizar as diferenças de complexidade entre os dois algoritmos O Bubble Sort é tipo aquele jeito "manual" de organizar as coisas comparando uma por uma, enquanto o Quick Sort já é mais esperto porque divide o problema em pedaços menores.
