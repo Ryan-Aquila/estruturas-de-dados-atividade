@@ -1,6 +1,6 @@
 # Parte 2 — Experimento de Ordenação
 
-*Responsável: [nome de quem fez a Parte 2]*
+*Responsável: Ryan Áquila Damasceno Vieira
 
 Programa para comparar experimentalmente os algoritmos **Bubble Sort** e **Quick Sort**, com arrays de 10, 20 e 1.000 elementos.
 
