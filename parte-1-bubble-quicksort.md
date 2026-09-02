@@ -1,6 +1,6 @@
 # Parte 1 — Pesquisa: Bubble Sort e Quick Sort
 
-*Responsável: Ryan Áquila Damasceno Vieira
+*Responsável: Ryan Áquila Damasceno Vieira*
 
 ## Bubble Sort
 
