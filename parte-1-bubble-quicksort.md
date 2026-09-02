@@ -1,6 +1,6 @@
 # Parte 1 — Pesquisa: Bubble Sort e Quick Sort
 
-*Responsável: [nome de quem fez a Parte 1]*
+*Responsável: Ryan Áquila Damasceno Vieira
 
 ## Bubble Sort
 
