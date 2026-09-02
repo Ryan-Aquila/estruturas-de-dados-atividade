@@ -1,6 +1,6 @@
 # Parte 5 — Cálculo da Média Geral
 
-*Responsável: [nome de quem fez a Parte 5]*
+*Responsável: João Victor Lima de Freitas Carvalho*
 
 ```c
 #define SENSORES 5
