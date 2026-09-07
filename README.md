@@ -7,8 +7,8 @@
 |---|---|---|
 | [Parte 1](parte-1-bubble-quicksort.md) | Bubble Sort e Quick Sort | *Ryan Áquila* |
 | [Parte 2](parte-2-experimento-ordenacao.md) | Experimento de ordenação | *Ryan Áquila* |
-| [Parte 3](parte-3-busca-matrizes.md) | Busca em matrizes | *Rhuann* |
-| [Parte 4](parte-4-hands-on-array.md) | Hands On — investigação do array | *Rhuann* |
+| [Parte 3](parte-3-busca-matrizes.md) | Busca em matrizes | *Rhuann Pablo* |
+| [Parte 4](parte-4-hands-on-array.md) | Hands On — investigação do array | *Rhuann Pablo* |
 | [Parte 5](parte-5-calculo-media-geral.md) | Cálculo da média geral (sensores) | *Jõao* |
 | [Parte 6](parte-6-analise-conclusao.md) | Análise e conclusão | *[nome]* |
 
