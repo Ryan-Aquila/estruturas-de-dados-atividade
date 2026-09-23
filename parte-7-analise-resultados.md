@@ -10,8 +10,6 @@
 | 20 | 189 | 84 | 99 | 84 | 190 | 16 | 58 | 43 |
 | 1.000 | 499.122 | 239.681 | 240.670 | 239.681 | 499.500 | 992 | 10.385 | 5.850 |
 
-*Valores obtidos com vetores de números aleatórios (seed fixa, para reprodutibilidade). Critério de contagem: uma "comparação" é cada verificação entre dois elementos (`if a > b`); uma "troca" é uma troca efetiva de posição (swap) e uma "movimentação" é qualquer deslocamento de elemento na estrutura, mesmo sem troca completa (caso do Insertion Sort e da partição do Quick Sort).*
-
 ## Etapa 4 — Análise dos Resultados
 
 **a) Qual algoritmo realizou o menor número de comparações para 10 elementos?**
