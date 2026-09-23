@@ -11,6 +11,8 @@
 | [Parte 4](parte-4-hands-on-array.md) | Hands On — investigação do array | *Rhuann Pablo* |
 | [Parte 5](parte-5-calculo-media-geral.md) | Cálculo da média geral (sensores) | *João Victor Lima* |
 | [Parte 6](parte-6-analise-conclusao.md) | Análise e conclusão | *Matheus Queirós* |
+| [Parte 6](parte-7-analise-algoritmo-ordenação.md) | Análise e conclusão | *Ryan Áquila* |
+| [Parte 6](parte-8-codigo-ordemação.md) | Análise e conclusão | *Ryan Áquila* |
 
 ## Como comentar
 
