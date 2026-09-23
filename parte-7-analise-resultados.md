@@ -59,14 +59,4 @@ Não, cada algoritmo reage de um jeito bem diferente à organização inicial:
 
 Isso mostra na prática que a complexidade teórica O(n²) ou O(n log n) descreve um **comportamento médio ou de pior caso**, mas o resultado real depende muito de como os dados chegam. Isso reforça a resposta do item (i): pra um sistema real, vale a pena tratar casos especiais (como usar um pivô aleatório no Quick Sort) para não cair no pior cenário justamente quando os dados já vêm parcialmente organizados.
 
----
 
-## 💬 Comentários
-
-<!--
-Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
-Formato sugerido:
-
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
