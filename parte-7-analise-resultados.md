@@ -1,4 +1,4 @@
-# Parte 6 — Análise dos Resultados (Etapa 4)
+# Parte 7 — ANÁLISE DE ALGORITMOS DE ORDENAÇÃO
 
 *Responsável: Ryan Áquila Damasceno Vieira 
 
