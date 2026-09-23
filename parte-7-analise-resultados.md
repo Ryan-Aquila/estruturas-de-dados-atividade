@@ -1,6 +1,6 @@
 # Parte 6 — Análise dos Resultados (Etapa 4)
 
-*Responsável: [seu nome]*
+*Responsável: Ryan Áquila Damasceno Vieira 
 
 ## Etapa 3 — Tabela de Resultados
 
